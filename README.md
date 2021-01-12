@@ -16,7 +16,6 @@ Atualmente estou estudando:
 * JavaScript
 * HTML
 * CSS
-* API's
 * Orientação a Objeto
 
 Já sou capaz de desenvolver sites pequenos e estáticos, mas busco sempre aprender coisas novas e tentar evoluir, sinta-se a vontade e dê uma olhadinha no que já consigo fazer :D
