@@ -5,7 +5,7 @@
 
 
 
-Tenho 23 anos e sou apaixonado por tecnologia e aprender coisas novas, sou estudante de Sistemas de Informações pela Estácio de Sá.
+Tenho 24 anos e sou apaixonado por tecnologia e aprender coisas novas, sou estudante de Sistemas de Informações pela Estácio de Sá.
 
 Aqui você encontrará alguns projetos simples de quem está começando a carreira agora, tenho muito interesse em me aprofundar na área de desenvolvimento Web, principalmente no que diz respeito ao Front-End.
 
