@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Technology, development, games and foods.**
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/wendell-rodrigues-30011997)
 
-- 📫 How to reach me **https://www.linkedin.com/in/wendell-rodrigues-30011997/**
+- 💬 Ask me about **Technology, development, games and foods.**
 
 - ⚡ Fun fact **I love dogs.**
 
