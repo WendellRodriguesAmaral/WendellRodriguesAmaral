@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wendellrodriguesamaral&label=Profile%20views&color=0e75b6&style=flat" alt="wendellrodriguesamaral" /> </p>
 
-- 🔭 I’m currently working on [CI&T](https://ciandt.com/)
+🔭 I’m currently working at [CI&T](https://ciandt.com/)
 
-- 🌱 I’m currently learning **Angular**
+🌱 I’m currently learning **Angular**
 
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/wendell-rodrigues-30011997)
+📫 How to reach me [Linkedin](https://www.linkedin.com/in/wendell-rodrigues-30011997)
 
-- 💬 Ask me about **Technology, development, games and foods.**
+💬 Ask me about **Technology, development, games and foods.**
 
-- ⚡ Fun fact **I love dogs.**
+⚡ Fun fact **I love dogs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
