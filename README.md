@@ -1,5 +1,6 @@
 <h1 align="center">Hello people, I'm Wendell Rodrigues 👨‍💻 </h1>
 <h3 align="center">Always learning about life and technology.</h3>
+<h4 align="center">Welcome to my Github.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wendellrodriguesamaral&label=Profile%20views&color=0e75b6&style=flat" alt="wendellrodriguesamaral" /> </p>
 
